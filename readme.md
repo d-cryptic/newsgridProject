@@ -6,6 +6,8 @@ A news portal entirely made of HTML and CSS. It has responsive design.
 This project helped my in understanding the concepts of grid.
 
 ![Logo](https://github.com/d-cryptic/newsgridProject/blob/master/img/logo.png?raw=true)
+
+
 ![Logo](https://github.com/d-cryptic/newsgridProject/blob/master/img/logo_light.png?raw=true)
 
 
